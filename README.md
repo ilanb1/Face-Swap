@@ -1,4 +1,11 @@
 **Face Swapping Project**
 
-my OOP implementation for face swapping between 2 images (can be used for video also)
+Face swapping between 2 images (can also be used for real-time video).
+
+This is my OOP implementation from scratch tutorial at: 
+https://pysource.com/2019/05/28/face-swapping-explained-in-8-steps-opencv-with-python/
+
+
+
+
 
